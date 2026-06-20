@@ -14,7 +14,7 @@ Assistente virtual desenvolvido em Python com interface gráfica para automaçã
 
 \### Tela Principal
 
-[!\[Tela Principal](https://github.com/Jose-FernandoAL/jarvis-desktop-assistant/blob/main/screenshots/Tela%20Inicial)
+[!\[Tela Principal](https://github.com/Jose-FernandoAL/jarvis-desktop-assistant/blob/main/screenshots/Tela%20Inicial.jpeg))
 
 
 
