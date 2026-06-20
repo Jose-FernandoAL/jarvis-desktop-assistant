@@ -14,7 +14,7 @@ Assistente virtual desenvolvido em Python com interface gráfica para automaçã
 
 \### Tela Principal
 
-!\[Tela Principal](screenshots/tela\_principal.png)
+!\[Tela Principal](screenshots/Tela Inicial)
 
 
 
