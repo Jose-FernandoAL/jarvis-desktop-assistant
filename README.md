@@ -1,60 +1,43 @@
-\# Jarvis Desktop Assistant
+# Jarvis Desktop Assistant
 
 
 
-\## Sobre
+## Sobre
 
 Assistente virtual desenvolvido em Python com interface gráfica para automação e produtividade.
 
 
 
-\## Capturas de Tela
+## Capturas de Tela
 
 
 
-\### Tela Principal
+## Tela Principal
 
 [!\[Tela Principal](https://github.com/Jose-FernandoAL/jarvis-desktop-assistant/blob/main/screenshots/Tela%20Inicial.jpeg))
 
 
 
-\## Funcionalidades
 
+## Tecnologias
 
+- Python
+- Tkinter
+- JSON
 
-\- Interface gráfica
+## Funcionalidades
 
-\- Comandos personalizados
+- Interface gráfica
+- Assistente virtual
+- Comandos personalizados
+- Histórico de interações
 
-\- Histórico de interações
+## Próximas Atualizações
 
-\- Armazenamento local
+- Reconhecimento de voz
+- Automações
+- Integração com APIs
 
-\- Configuração simplificada
-
-
-
-\## Próximas funcionalidades
-
-
-
-\- Reconhecimento de voz
-
-\- Integração com APIs
-
-\- Automação de tarefas
-
-
-
-
-
-\## Tecnologias
-
-\- Python
-
-\- Tkinter
-
-\- JSON
 
 
 
