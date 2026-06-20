@@ -1,0 +1,1 @@
+Assistente virtual desenvolvido em Python com interface gráfica para automação e produtividade.
